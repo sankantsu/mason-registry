@@ -10,7 +10,7 @@ categories:
   - LSP
 
 source:
-  id: pkg:github/monaqa/satysfi-language-server@2023-12-17
+  id: pkg:github/monaqa/satysfi-language-server@master
   build:
     run: |
       cargo build
