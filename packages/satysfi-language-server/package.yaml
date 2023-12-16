@@ -17,4 +17,4 @@ source:
     bin: target/debug/satysfi-language-server
 
 bin:
-  satysfi-language-server: {{source.build.bin}}
+  satysfi-language-server: "{{source.build.bin}}"
